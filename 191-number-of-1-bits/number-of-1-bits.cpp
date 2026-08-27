@@ -23,7 +23,9 @@ public:
 
         while (n > 0) {
             count += n & 1;
+            //check n & 1 ..this will consider the last bit 
             n = n >> 1;
+            // shifts the bits to the right 
         }
 
         return count;
