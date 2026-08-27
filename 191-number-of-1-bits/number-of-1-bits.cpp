@@ -1,4 +1,4 @@
-class Solution {
+/***class Solution {
 public:
     int hammingWeight(int n) 
     {
@@ -9,9 +9,23 @@ public:
             {
                 freq += 1;
             }
-
             n = n/2;
         };
     return freq ;    
+    }
+};***/
+
+//gpt method 
+class Solution {
+public:
+    int hammingWeight(int n) {
+        int count = 0;
+
+        while (n > 0) {
+            count += n & 1;
+            n = n >> 1;
+        }
+
+        return count;
     }
 };
