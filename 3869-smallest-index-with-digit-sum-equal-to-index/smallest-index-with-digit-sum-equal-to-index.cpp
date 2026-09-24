@@ -5,7 +5,7 @@ public:
         for( int i = 0 ; i < nums.size() ; i++ )
         {
             int sum = 0 ;
-            //To calculate the sum of all digits, you need a loop:
+            //To calculate the sum of all digits, you need a loop
             int n = nums[i];
             while ( n > 0 )
             {
