@@ -17,4 +17,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0941-valid-mountain-array](https://github.com/SharvariBangar24/dsa/tree/master/0941-valid-mountain-array) |
+| [1051-height-checker](https://github.com/SharvariBangar24/dsa/tree/master/1051-height-checker) |
+## Sorting
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/SharvariBangar24/dsa/tree/master/1051-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/SharvariBangar24/dsa/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/SharvariBangar24/dsa/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
