@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/SharvariBangar24/dsa/tree/master/0238-product-of-array-except-self) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/SharvariBangar24/dsa/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0941-valid-mountain-array](https://github.com/SharvariBangar24/dsa/tree/master/0941-valid-mountain-array) |
 | [1051-height-checker](https://github.com/SharvariBangar24/dsa/tree/master/1051-height-checker) |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/SharvariBangar24/dsa/tree/master/1051-height-checker) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/SharvariBangar24/dsa/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
