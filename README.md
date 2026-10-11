@@ -45,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/SharvariBangar24/dsa/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+## Math
+|  |
+| ------- |
+| [2544-alternating-digit-sum](https://github.com/SharvariBangar24/dsa/tree/master/2544-alternating-digit-sum) |
 <!---LeetCode Topics End-->
