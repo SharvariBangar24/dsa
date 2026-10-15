@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/SharvariBangar24/dsa/tree/master/0941-valid-mountain-array) |
 | [1051-height-checker](https://github.com/SharvariBangar24/dsa/tree/master/1051-height-checker) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/SharvariBangar24/dsa/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SharvariBangar24/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sorting
 |  |
 | ------- |
@@ -49,4 +50,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2544-alternating-digit-sum](https://github.com/SharvariBangar24/dsa/tree/master/2544-alternating-digit-sum) |
+## Hash Table
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SharvariBangar24/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SharvariBangar24/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SharvariBangar24/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
