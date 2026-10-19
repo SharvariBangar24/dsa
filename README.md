@@ -26,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/SharvariBangar24/dsa/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/SharvariBangar24/dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/SharvariBangar24/dsa/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SharvariBangar24/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SharvariBangar24/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sorting
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/SharvariBangar24/dsa/tree/master/1051-height-checker) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/SharvariBangar24/dsa/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SharvariBangar24/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting Sort
 |  |
 | ------- |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/SharvariBangar24/dsa/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SharvariBangar24/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
