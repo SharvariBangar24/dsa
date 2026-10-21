@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SharvariBangar24/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/SharvariBangar24/dsa/tree/master/0020-valid-parentheses) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/SharvariBangar24/dsa/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SharvariBangar24/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SharvariBangar24/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/SharvariBangar24/dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/SharvariBangar24/dsa/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SharvariBangar24/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SharvariBangar24/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/SharvariBangar24/dsa/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 ## Binary Search
 |  |
