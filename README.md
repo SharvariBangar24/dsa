@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/SharvariBangar24/dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [2396-strictly-palindromic-number](https://github.com/SharvariBangar24/dsa/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/SharvariBangar24/dsa/tree/master/2409-count-days-spent-together) |
 | [2544-alternating-digit-sum](https://github.com/SharvariBangar24/dsa/tree/master/2544-alternating-digit-sum) |
 ## Hash Table
@@ -89,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/SharvariBangar24/dsa/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Two Pointers
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/SharvariBangar24/dsa/tree/master/2396-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/SharvariBangar24/dsa/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
