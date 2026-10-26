@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/SharvariBangar24/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SharvariBangar24/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/SharvariBangar24/dsa/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/SharvariBangar24/dsa/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sorting
 |  |
 | ------- |
@@ -104,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SharvariBangar24/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/SharvariBangar24/dsa/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/SharvariBangar24/dsa/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
