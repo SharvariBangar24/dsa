@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/SharvariBangar24/dsa/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/SharvariBangar24/dsa/tree/master/0062-unique-paths) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SharvariBangar24/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/SharvariBangar24/dsa/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/SharvariBangar24/dsa/tree/master/2409-count-days-spent-together) |
@@ -116,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SharvariBangar24/dsa/tree/master/3898-find-the-degree-of-each-vertex) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SharvariBangar24/dsa/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SharvariBangar24/dsa/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
