@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/SharvariBangar24/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SharvariBangar24/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/SharvariBangar24/dsa/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SharvariBangar24/dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SharvariBangar24/dsa/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sorting
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/SharvariBangar24/dsa/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/SharvariBangar24/dsa/tree/master/2409-count-days-spent-together) |
 | [2544-alternating-digit-sum](https://github.com/SharvariBangar24/dsa/tree/master/2544-alternating-digit-sum) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SharvariBangar24/dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
