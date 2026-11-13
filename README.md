@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SharvariBangar24/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/SharvariBangar24/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/SharvariBangar24/dsa/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/SharvariBangar24/dsa/tree/master/0020-valid-parentheses) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/SharvariBangar24/dsa/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SharvariBangar24/dsa/tree/master/0005-longest-palindromic-substring) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SharvariBangar24/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/SharvariBangar24/dsa/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
@@ -128,9 +130,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SharvariBangar24/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/SharvariBangar24/dsa/tree/master/0062-unique-paths) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SharvariBangar24/dsa/tree/master/0062-unique-paths) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/SharvariBangar24/dsa/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
