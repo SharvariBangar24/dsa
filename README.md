@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SharvariBangar24/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/SharvariBangar24/dsa/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/SharvariBangar24/dsa/tree/master/0020-valid-parentheses) |
+| [0551-student-attendance-record-i](https://github.com/SharvariBangar24/dsa/tree/master/0551-student-attendance-record-i) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/SharvariBangar24/dsa/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SharvariBangar24/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2409-count-days-spent-together](https://github.com/SharvariBangar24/dsa/tree/master/2409-count-days-spent-together) |
