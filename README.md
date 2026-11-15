@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/SharvariBangar24/dsa/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/SharvariBangar24/dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/SharvariBangar24/dsa/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SharvariBangar24/dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SharvariBangar24/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SharvariBangar24/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SharvariBangar24/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SharvariBangar24/dsa/tree/master/0238-product-of-array-except-self) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SharvariBangar24/dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SharvariBangar24/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SharvariBangar24/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SharvariBangar24/dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SharvariBangar24/dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2396-strictly-palindromic-number](https://github.com/SharvariBangar24/dsa/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/SharvariBangar24/dsa/tree/master/2409-count-days-spent-together) |
 | [2544-alternating-digit-sum](https://github.com/SharvariBangar24/dsa/tree/master/2544-alternating-digit-sum) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SharvariBangar24/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/SharvariBangar24/dsa/tree/master/0062-unique-paths) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SharvariBangar24/dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Combinatorics
 |  |
 | ------- |
