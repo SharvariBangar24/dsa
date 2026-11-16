@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/SharvariBangar24/dsa/tree/master/0551-student-attendance-record-i) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/SharvariBangar24/dsa/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SharvariBangar24/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/SharvariBangar24/dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/SharvariBangar24/dsa/tree/master/2409-count-days-spent-together) |
 ## Stack
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SharvariBangar24/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/SharvariBangar24/dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Graph Theory
 |  |
 | ------- |
