@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SharvariBangar24/dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SharvariBangar24/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SharvariBangar24/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SharvariBangar24/dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SharvariBangar24/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SharvariBangar24/dsa/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/SharvariBangar24/dsa/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/SharvariBangar24/dsa/tree/master/1051-height-checker) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/SharvariBangar24/dsa/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SharvariBangar24/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SharvariBangar24/dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/SharvariBangar24/dsa/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SharvariBangar24/dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Math
 |  |
 | ------- |
