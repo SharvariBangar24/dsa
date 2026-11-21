@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SharvariBangar24/dsa/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/SharvariBangar24/dsa/tree/master/0238-product-of-array-except-self) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SharvariBangar24/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SharvariBangar24/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SharvariBangar24/dsa/tree/master/0011-container-with-most-water) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/SharvariBangar24/dsa/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SharvariBangar24/dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Math
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SharvariBangar24/dsa/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/SharvariBangar24/dsa/tree/master/0011-container-with-most-water) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SharvariBangar24/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/SharvariBangar24/dsa/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
