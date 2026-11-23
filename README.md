@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/SharvariBangar24/dsa/tree/master/0941-valid-mountain-array) |
 | [1051-height-checker](https://github.com/SharvariBangar24/dsa/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/SharvariBangar24/dsa/tree/master/1207-unique-number-of-occurrences) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SharvariBangar24/dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/SharvariBangar24/dsa/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SharvariBangar24/dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SharvariBangar24/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SharvariBangar24/dsa/tree/master/0238-product-of-array-except-self) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SharvariBangar24/dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SharvariBangar24/dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Greedy
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SharvariBangar24/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SharvariBangar24/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SharvariBangar24/dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SharvariBangar24/dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SharvariBangar24/dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2396-strictly-palindromic-number](https://github.com/SharvariBangar24/dsa/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/SharvariBangar24/dsa/tree/master/2409-count-days-spent-together) |
@@ -154,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SharvariBangar24/dsa/tree/master/0005-longest-palindromic-substring) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/SharvariBangar24/dsa/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/SharvariBangar24/dsa/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
